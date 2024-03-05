@@ -1,0 +1,9 @@
+EMPLOYEE_ID,EMPLOYEE_NAME,DATE,HOURS,ACTIVITY_ID,ACTIVITY_NAME,ITEM,PIECES
+10,Tomas,2024-01-8,0,22,Gold Hammer,2,683
+10,Tomas,2024-01-8,0,7,Tumbling,1,217
+10,Tomas,2024-01-8,0,10,Cups,2,950
+10,Tomas,2024-01-8,0,1,Gold Polish,3,303
+10,Tomas,2024-01-8,0,19,Ball Department,1,1444
+10,Tomas,2024-01-8,0,14,Bronze,2,166
+10,Tomas,2024-01-8,0,22,Gold Hammer,3,921
+10,Tomas,2024-01-8,0,28,Activity name not registered,1,1457
